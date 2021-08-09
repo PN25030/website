@@ -1,3 +1,3 @@
 
-FROM piyushsitaram_namra/webapp
+FROM /etc/apache2
 ADD . var/www/html
