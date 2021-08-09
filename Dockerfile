@@ -1,3 +1,3 @@
 
-FROM piyushsitaram.namra/jenkins/workspace/git-job
+FROM piyushsitaram_namra/webapp
 ADD . var/www/html
