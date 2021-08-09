@@ -1,3 +1,3 @@
 
-FROM /etc/apache2
+FROM ubuntu:latest
 ADD . var/www/html
