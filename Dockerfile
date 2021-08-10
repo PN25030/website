@@ -1,3 +1,3 @@
 
-FROM ubuntu:latest
+FROM website:latest
 ADD . var/www/html
